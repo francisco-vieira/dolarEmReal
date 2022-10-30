@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Converter Dolar em Real</string>
+    <string name="digite_cotacao">Digite a cotação do Dolar</string>
+    <string name="digite_qtd">Quantidade</string>
+    <string name="cmd_converter">Converter</string>
+    <string name="sifra_real">R$: 0,00</string>
+    <string name="image_dolar">TODO</string>
+    <string name="digite_valor_dolar">Digite o valor do Dolar</string>
+</resources>
